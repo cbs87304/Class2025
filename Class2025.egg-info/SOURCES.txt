@@ -1,0 +1,7 @@
+README.md
+setup.py
+Class2025.egg-info/PKG-INFO
+Class2025.egg-info/SOURCES.txt
+Class2025.egg-info/dependency_links.txt
+Class2025.egg-info/top_level.txt
+crawler_34/__init__.py
